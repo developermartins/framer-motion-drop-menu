@@ -50,14 +50,14 @@ const Menu = ({ isOpen, setIsOpen }) => {
         onClick={() => setIsOpen(!isOpen)}
     >
      Menu
-        <motion.div
+      <motion.div
         variants={menuVariants}
             style={{ originY: 0.55 }}
         >
         <svg width="15" height="15" viewBox="0 0 20 20">
             <path d="M0 7 L 20 7 L 10 16" />
         </svg>
-        </motion.div>
+      </motion.div>
     </motion.button>
         <motion.ul
             variants={ listVariants }
