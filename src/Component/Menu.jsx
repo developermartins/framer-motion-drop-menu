@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from "framer-motion";
 
-import './menu.css';
+import './Menu.css';
 
 const menuVariants = {
     open: { rotate: 180, transition: { duration: 0.2 } },
