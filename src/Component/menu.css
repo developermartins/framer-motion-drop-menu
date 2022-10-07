@@ -11,6 +11,7 @@ ul {
 
 li {
     color: rgb(0, 180, 203);
+    font-family: 'Roboto', sans-serif;
     display: block;
     cursor: pointer;
 }
@@ -33,6 +34,7 @@ button {
     border: none;
     border-radius: 10px;
     padding: 10px 20px;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 700;
     cursor: pointer;
