@@ -1,6 +1,9 @@
 <h1 align="center">React Dropdown Menu</h1>
 
 ## React Dropdown Menu developed using Framer Motion.
+<br/>
+
+<img src="src/assets/menugif.gif" alt="gif" />
 
 <br/>
 <br/>
