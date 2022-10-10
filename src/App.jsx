@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import './App.css';
-import Menu from './Component/Menu';
+import Menu from './Component/Menu/Menu.jsx';
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(false);
